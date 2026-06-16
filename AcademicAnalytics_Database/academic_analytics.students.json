@@ -1,0 +1,433 @@
+[{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb01"
+  },
+  "studentId": "STU-0001",
+  "name": "Alejandro Vasquez",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 2.1,
+  "prevGpa": 2.41,
+  "absences": 12,
+  "totalClasses": 50,
+  "failedUnits": 3,
+  "riskLevel": "medium",
+  "riskScore": 0.55
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb02"
+  },
+  "studentId": "STU-0002",
+  "name": "Liam Johnston",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 1.9,
+  "prevGpa": 2.1,
+  "absences": 15,
+  "totalClasses": 50,
+  "failedUnits": 2,
+  "riskLevel": "high",
+  "riskScore": 0.78
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb03"
+  },
+  "studentId": "STU-0003",
+  "name": "Chloe Demarco",
+  "program": "Mathematics",
+  "department": "Mathematics",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 1.55,
+  "prevGpa": 1.85,
+  "absences": 18,
+  "totalClasses": 48,
+  "failedUnits": 3,
+  "riskLevel": "high",
+  "riskScore": 0.92
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb04"
+  },
+  "studentId": "STU-0004",
+  "name": "Elena Rostova",
+  "program": "Physics",
+  "department": "Physics",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 1.98,
+  "prevGpa": 2.7,
+  "absences": 11,
+  "totalClasses": 50,
+  "failedUnits": 2,
+  "riskLevel": "high",
+  "riskScore": 0.72
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb05"
+  },
+  "studentId": "STU-0005",
+  "name": "Amir Hakimi",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 2.45,
+  "prevGpa": 2.6,
+  "absences": 7,
+  "totalClasses": 50,
+  "failedUnits": 1,
+  "riskLevel": "medium",
+  "riskScore": 0.45
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb06"
+  },
+  "studentId": "STU-0006",
+  "name": "Sarah Jenkins",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 2.21,
+  "prevGpa": 2.85,
+  "absences": 9,
+  "totalClasses": 50,
+  "failedUnits": 1,
+  "riskLevel": "medium",
+  "riskScore": 0.58
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb07"
+  },
+  "studentId": "STU-0007",
+  "name": "Yusuf Demir",
+  "program": "Mathematics",
+  "department": "Mathematics",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 2.6,
+  "prevGpa": 2.5,
+  "absences": 6,
+  "totalClasses": 48,
+  "failedUnits": 1,
+  "riskLevel": "medium",
+  "riskScore": 0.38
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb08"
+  },
+  "studentId": "STU-0008",
+  "name": "Nina Novak",
+  "program": "Mathematics",
+  "department": "Mathematics",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 2.38,
+  "prevGpa": 2.9,
+  "absences": 8,
+  "totalClasses": 48,
+  "failedUnits": 1,
+  "riskLevel": "medium",
+  "riskScore": 0.52
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb09"
+  },
+  "studentId": "STU-0009",
+  "name": "Arian Qamili",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 3.92,
+  "prevGpa": 3.85,
+  "absences": 1,
+  "totalClasses": 50,
+  "failedUnits": 0,
+  "riskLevel": "low",
+  "riskScore": 0.02
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb10"
+  },
+  "studentId": "STU-0010",
+  "name": "Lucas Fischer",
+  "program": "Mathematics",
+  "department": "Mathematics",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 3.42,
+  "prevGpa": 3.5,
+  "absences": 4,
+  "totalClasses": 48,
+  "failedUnits": 0,
+  "riskLevel": "low",
+  "riskScore": 0.12
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb11"
+  },
+  "studentId": "STU-0011",
+  "name": "Drita Berisha",
+  "program": "Information Technology",
+  "department": "Information Technology",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 3.65,
+  "prevGpa": 3.55,
+  "absences": 2,
+  "totalClasses": 50,
+  "failedUnits": 0,
+  "riskLevel": "low",
+  "riskScore": 0.07
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb12"
+  },
+  "studentId": "STU-0012",
+  "name": "Omar Farooq",
+  "program": "Information Technology",
+  "department": "Information Technology",
+  "status": "enrolled",
+  "semester": "Spring 2025",
+  "currentGpa": 2.1,
+  "prevGpa": 2.4,
+  "absences": 10,
+  "totalClasses": 50,
+  "failedUnits": 2,
+  "riskLevel": "high",
+  "riskScore": 0.74
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb13"
+  },
+  "studentId": "STU-0013",
+  "name": "Liridona Gashi",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "scholarship",
+  "semester": "Spring 2025",
+  "currentGpa": 3.88,
+  "prevGpa": 3.9,
+  "absences": 1,
+  "totalClasses": 50,
+  "failedUnits": 0,
+  "riskLevel": "low",
+  "riskScore": 0.03,
+  "scholarshipType": "Merit-Based",
+  "scholarshipAmount": 2500,
+  "gpaRequirement": 3.7,
+  "renewalDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "scholarshipProvider": "Ministry of Education"
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb14"
+  },
+  "studentId": "STU-0014",
+  "name": "Ermal Kelmendi",
+  "program": "Mathematics",
+  "department": "Mathematics",
+  "status": "scholarship",
+  "semester": "Spring 2025",
+  "currentGpa": 3.72,
+  "prevGpa": 3.68,
+  "absences": 2,
+  "totalClasses": 48,
+  "failedUnits": 0,
+  "riskLevel": "low",
+  "riskScore": 0.05,
+  "scholarshipType": "Need-Based",
+  "scholarshipAmount": 1800,
+  "gpaRequirement": 3.5,
+  "renewalDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "scholarshipProvider": "SEEU Foundation"
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb15"
+  },
+  "studentId": "STU-0015",
+  "name": "Ana Petrova",
+  "program": "Information Technology",
+  "department": "Information Technology",
+  "status": "scholarship",
+  "semester": "Spring 2025",
+  "currentGpa": 3.95,
+  "prevGpa": 3.88,
+  "absences": 0,
+  "totalClasses": 50,
+  "failedUnits": 0,
+  "riskLevel": "low",
+  "riskScore": 0.01,
+  "scholarshipType": "Excellence Award",
+  "scholarshipAmount": 3500,
+  "gpaRequirement": 3.8,
+  "renewalDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "scholarshipProvider": "Tech Industry Partner"
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb16"
+  },
+  "studentId": "STU-0016",
+  "name": "Fisnik Rexhepi",
+  "program": "Computer Science",
+  "department": "Computer Science",
+  "status": "probation",
+  "currentGpa": 1.45,
+  "probationStartDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "probationEndDate": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "conditionsToMeet": [
+    "Achieve GPA >= 2.0",
+    "Max 3 absences per course",
+    "Weekly advisor meeting"
+  ],
+  "warningLevel": 2,
+  "counselorNote": "Student shows potential but lacks consistency",
+  "requiresWeeklyCheckIn": true
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb17"
+  },
+  "studentId": "STU-0017",
+  "name": "Blerina Osmani",
+  "program": "Mathematics",
+  "department": "Mathematics",
+  "status": "probation",
+  "currentGpa": 1.62,
+  "probationStartDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "probationEndDate": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "conditionsToMeet": [
+    "Achieve GPA >= 2.0",
+    "Complete all assignments",
+    "No further absences"
+  ],
+  "warningLevel": 1,
+  "counselorNote": "Personal difficulties reported, support provided",
+  "requiresWeeklyCheckIn": true
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb18"
+  },
+  "studentId": "STU-0018",
+  "name": "Granit Morina",
+  "program": "Information Technology",
+  "department": "Information Technology",
+  "status": "probation",
+  "currentGpa": 1.8,
+  "probationStartDate": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "probationEndDate": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "conditionsToMeet": [
+    "Pass all retake exams",
+    "Achieve GPA >= 2.0"
+  ],
+  "warningLevel": 1,
+  "counselorNote": "Retake exams scheduled for May 2025",
+  "requiresWeeklyCheckIn": true
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb19"
+  },
+  "studentId": "STU-0019",
+  "name": "Marcus Vance",
+  "program": "Physics",
+  "department": "Physics",
+  "status": "probation",
+  "lastActiveSemester": "Fall 2024",
+  "currentGpa": 1.2,
+  "prevGpa": 1.95,
+  "conditionsToMeet": [
+    "Achieve GPA >= 2.0",
+    "Attend all classes"
+  ],
+  "counselorNote": "Reinstated after appeal — under strict monitoring",
+  "probationEndDate": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "probationStartDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "warningLevel": 2
+},
+{
+  "_id": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb20"
+  },
+  "studentId": "STU-0020",
+  "name": "Tariq Meziane",
+  "program": "Physics",
+  "department": "Physics",
+  "status": "suspended",
+  "lastActiveSemester": "Fall 2024",
+  "currentGpa": 2.1,
+  "prevGpa": 2.3,
+  "suspensionReason": "Exceeded maximum allowed absences in 3 courses",
+  "suspendedSince": {
+    "$date": "2025-01-12T00:00:00.000Z"
+  },
+  "reviewDate": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "canAppeal": false
+},
+{
+  "_id": {
+    "$oid": "6a205986e7ea578e5950a0a0"
+  },
+  "studentId": "STU-0021",
+  "name": "Rexhep Syla",
+  "program": "Information Technology",
+  "department": "Information Technology",
+  "status": "suspended",
+  "lastActiveSemester": "Fall 2024",
+  "currentGpa": 1.35,
+  "prevGpa": 1.6,
+  "suspensionReason": "Academic dishonesty — plagiarism detected in final project",
+  "suspendedSince": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "reviewDate": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "canAppeal": false,
+  "disciplinaryCode": "DISC-2025-004"
+}]

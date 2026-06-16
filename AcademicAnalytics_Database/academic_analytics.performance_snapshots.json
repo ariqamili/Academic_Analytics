@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a082"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb01"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.41,
+  "riskScore": 0.35,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.1,
+    "absenceRate": 0.08,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a083"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb01"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 1.78,
+  "riskScore": 0.81,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.63,
+    "absenceRate": 0.24,
+    "failedUnits": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a084"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb02"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.1,
+  "riskScore": 0.48,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.15,
+    "absenceRate": 0.12,
+    "failedUnits": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a085"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb02"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 1.9,
+  "riskScore": 0.78,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.2,
+    "absenceRate": 0.3,
+    "failedUnits": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a086"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb03"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 1.85,
+  "riskScore": 0.7,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.05,
+    "absenceRate": 0.2,
+    "failedUnits": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a087"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb03"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 1.55,
+  "riskScore": 0.92,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.3,
+    "absenceRate": 0.37,
+    "failedUnits": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a088"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb04"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.7,
+  "riskScore": 0.2,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.04,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a089"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb04"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 1.98,
+  "riskScore": 0.72,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.72,
+    "absenceRate": 0.22,
+    "failedUnits": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a08a"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb05"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.6,
+  "riskScore": 0.25,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.06,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a08b"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb05"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 2.45,
+  "riskScore": 0.45,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.15,
+    "absenceRate": 0.14,
+    "failedUnits": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a08c"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb06"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.85,
+  "riskScore": 0.15,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.02,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a08d"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb06"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 2.21,
+  "riskScore": 0.58,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.64,
+    "absenceRate": 0.18,
+    "failedUnits": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a08e"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb07"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.5,
+  "riskScore": 0.3,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.1,
+    "failedUnits": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a08f"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb07"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 2.6,
+  "riskScore": 0.38,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": -0.1,
+    "absenceRate": 0.12,
+    "failedUnits": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a090"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb08"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.9,
+  "riskScore": 0.12,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.02,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a091"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb08"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 2.38,
+  "riskScore": 0.52,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.52,
+    "absenceRate": 0.16,
+    "failedUnits": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a092"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb09"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 3.85,
+  "riskScore": 0.03,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.02,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a093"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb09"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 3.92,
+  "riskScore": 0.02,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": -0.07,
+    "absenceRate": 0.02,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a094"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb10"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 3.5,
+  "riskScore": 0.1,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.06,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a095"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb10"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 3.42,
+  "riskScore": 0.12,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.08,
+    "absenceRate": 0.08,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a096"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb11"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 3.55,
+  "riskScore": 0.08,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.04,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a097"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb11"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 3.65,
+  "riskScore": 0.07,
+  "riskLevel": "low",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": -0.1,
+    "absenceRate": 0.04,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a098"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb12"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.4,
+  "riskScore": 0.32,
+  "riskLevel": "medium",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0,
+    "absenceRate": 0.1,
+    "failedUnits": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a099"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb12"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 2.1,
+  "riskScore": 0.74,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.3,
+    "absenceRate": 0.2,
+    "failedUnits": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a09a"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb16"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 1.8,
+  "riskScore": 0.88,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.4,
+    "absenceRate": 0.25,
+    "failedUnits": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a09b"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb16"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 1.45,
+  "riskScore": 0.95,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.35,
+    "absenceRate": 0.3,
+    "failedUnits": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a09c"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb17"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2,
+  "riskScore": 0.65,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.2,
+    "absenceRate": 0.18,
+    "failedUnits": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a09d"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb17"
+  },
+  "semester": "Spring 2025",
+  "semesterGpa": 1.62,
+  "riskScore": 0.82,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.38,
+    "absenceRate": 0.22,
+    "failedUnits": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a09e"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb19"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 1.2,
+  "riskScore": 0.97,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.75,
+    "absenceRate": 0.48,
+    "failedUnits": 4
+  }
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a09f"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb20"
+  },
+  "semester": "Fall 2024",
+  "semesterGpa": 2.1,
+  "riskScore": 0.61,
+  "riskLevel": "high",
+  "capturedAt": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "signals": {
+    "gpaDrop": 0.2,
+    "absenceRate": 0.35,
+    "failedUnits": 2
+  }
+}]

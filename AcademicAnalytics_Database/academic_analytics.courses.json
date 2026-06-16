@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "courseId": "CS401",
+  "name": "Algorithms & Complexity",
+  "credits": 4,
+  "department": "Computer Science",
+  "deliveryMode": "in-person",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "courseId": "CS201",
+  "name": "NoSQL Databases",
+  "credits": 6,
+  "department": "Computer Science",
+  "deliveryMode": "in-person",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaac"
+  },
+  "courseId": "CS202",
+  "name": "Computer Networks",
+  "credits": 6,
+  "department": "Computer Science",
+  "deliveryMode": "in-person",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "courseId": "CS301",
+  "name": "Software Engineering",
+  "credits": 6,
+  "department": "Computer Science",
+  "deliveryMode": "hybrid",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaae"
+  },
+  "courseId": "CS101",
+  "name": "Introduction to Programming",
+  "credits": 4,
+  "department": "Computer Science",
+  "deliveryMode": "online",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "courseId": "MATH101",
+  "name": "Calculus I",
+  "credits": 4,
+  "department": "Mathematics",
+  "deliveryMode": "in-person",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "courseId": "MATH201",
+  "name": "Linear Algebra",
+  "credits": 4,
+  "department": "Mathematics",
+  "deliveryMode": "in-person",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab1"
+  },
+  "courseId": "MATH301",
+  "name": "Statistics & Probability",
+  "credits": 4,
+  "department": "Mathematics",
+  "deliveryMode": "hybrid",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab2"
+  },
+  "courseId": "IT301",
+  "name": "Cybersecurity Fundamentals",
+  "credits": 6,
+  "department": "Information Technology",
+  "deliveryMode": "in-person",
+  "semester": "Spring 2025"
+},
+{
+  "_id": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab3"
+  },
+  "courseId": "IT201",
+  "name": "Cloud Computing",
+  "credits": 4,
+  "department": "Information Technology",
+  "deliveryMode": "online",
+  "semester": "Spring 2025"
+}]

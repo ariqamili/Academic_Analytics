@@ -1,0 +1,1189 @@
+[{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a046"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb01"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 42,
+  "finalScore": 38
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a047"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb01"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 55,
+  "finalScore": 48
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a048"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb01"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaac"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 40,
+  "examScore": 35,
+  "projectScore": 42
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a049"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb02"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 45,
+  "finalScore": 40
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a04a"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb02"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 58,
+  "finalScore": 50
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a04b"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb02"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaac"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 52,
+  "examScore": 48,
+  "projectScore": 50,
+  "isRetake": true,
+  "attemptNumber": 2,
+  "previousGrade": 1.4
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a04c"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb03"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 38,
+  "finalScore": 32,
+  "oralExam": true,
+  "oralScore": 40
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a04d"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb03"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 40,
+  "finalScore": 35
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a04e"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb03"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 50,
+  "examScore": 44,
+  "projectScore": 48
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a04f"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb04"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 44,
+  "finalScore": 39
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a050"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb04"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "C",
+  "numericGrade": 2.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 62,
+  "finalScore": 58,
+  "oralExam": true,
+  "oralScore": 60
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a051"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb04"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 41,
+  "finalScore": 36
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a052"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb05"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "C",
+  "numericGrade": 2.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 62,
+  "finalScore": 60
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a053"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb05"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 72,
+  "finalScore": 68
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a054"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb05"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaac"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 58,
+  "examScore": 52,
+  "projectScore": 55
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a055"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb06"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 55,
+  "finalScore": 50
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a056"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb06"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "C",
+  "numericGrade": 2.5,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "Agile Task Manager Web App",
+  "teamSize": 3,
+  "projectScore": 65,
+  "examScore": 58
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a057"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb06"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaae"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "C",
+  "numericGrade": 2.5,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.4,
+  "examWeight": 0.6,
+  "assignmentsScore": 63,
+  "examScore": 60
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a058"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb07"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 70,
+  "finalScore": 68
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a059"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb07"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 72,
+  "finalScore": 70,
+  "oralExam": true,
+  "oralScore": 68
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a05a"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb07"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab1"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "lab_based",
+  "labWeight": 0.4,
+  "finalWeight": 0.6,
+  "labScore": 60,
+  "finalScore": 55
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a05b"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb08"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 68,
+  "finalScore": 65
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a05c"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb08"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "C",
+  "numericGrade": 2.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 63,
+  "finalScore": 60
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a05d"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb08"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab1"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "lab_based",
+  "labWeight": 0.4,
+  "finalWeight": 0.6,
+  "labScore": 58,
+  "finalScore": 52
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a05e"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb09"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 98,
+  "finalScore": 96
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a05f"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb09"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 95,
+  "finalScore": 94
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a060"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb09"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "Distributed Microservices Architecture",
+  "teamSize": 4,
+  "projectScore": 97,
+  "examScore": 95
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a061"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb10"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 80,
+  "finalScore": 78
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a062"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb10"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 82,
+  "finalScore": 80
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a063"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb10"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab1"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "B",
+  "numericGrade": 3,
+  "gradingType": "lab_based",
+  "labWeight": 0.4,
+  "finalWeight": 0.6,
+  "labScore": 80,
+  "finalScore": 78
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a064"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb11"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab2"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 90,
+  "finalScore": 88
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a065"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb11"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab3"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 90,
+  "examScore": 88,
+  "projectScore": 92
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a066"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb11"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "IoT Smart Campus Monitoring System",
+  "teamSize": 3,
+  "projectScore": 92,
+  "examScore": 90
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a067"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb12"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab2"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 52,
+  "finalScore": 48
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a068"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb12"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab3"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 55,
+  "examScore": 48,
+  "projectScore": 52
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a069"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb12"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "E-Commerce Platform",
+  "teamSize": 2,
+  "projectScore": 38,
+  "examScore": 35,
+  "isRetake": true,
+  "attemptNumber": 2,
+  "previousGrade": 1.5
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a06a"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb13"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 96,
+  "finalScore": 94
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a06b"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb13"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 94,
+  "finalScore": 92
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a06c"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb13"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "AI-Powered Student Performance Dashboard",
+  "teamSize": 3,
+  "projectScore": 98,
+  "examScore": 96
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a06d"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb14"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 92,
+  "finalScore": 90,
+  "oralExam": true,
+  "oralScore": 94
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a06e"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb14"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 90,
+  "finalScore": 88
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a06f"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb14"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab1"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "lab_based",
+  "labWeight": 0.4,
+  "finalWeight": 0.6,
+  "labScore": 92,
+  "finalScore": 90
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a070"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb15"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab2"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 98,
+  "finalScore": 97
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a071"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb15"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab3"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 98,
+  "examScore": 96,
+  "projectScore": 99
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a072"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb15"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "A",
+  "numericGrade": 4,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "Cloud-Native Microservices for Smart City",
+  "teamSize": 4,
+  "projectScore": 99,
+  "examScore": 97
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a073"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb16"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 30,
+  "finalScore": 28
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a074"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb16"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaab"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 35,
+  "finalScore": 30
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a075"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb16"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaad"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "project_based",
+  "projectWeight": 0.6,
+  "examWeight": 0.4,
+  "projectTitle": "Basic CRUD Application",
+  "teamSize": 2,
+  "projectScore": 32,
+  "examScore": 28
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a076"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb17"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 35,
+  "finalScore": 30
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a077"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb17"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 38,
+  "finalScore": 33
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a078"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb17"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab1"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "lab_based",
+  "labWeight": 0.4,
+  "finalWeight": 0.6,
+  "labScore": 55,
+  "finalScore": 50,
+  "isRetake": true,
+  "attemptNumber": 2,
+  "previousGrade": 1.3
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a079"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb18"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab2"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "lab_based",
+  "labWeight": 0.5,
+  "finalWeight": 0.5,
+  "labScore": 40,
+  "finalScore": 38
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a07a"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb18"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab3"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 52,
+  "examScore": 45,
+  "projectScore": 50
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a07b"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb18"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaae"
+  },
+  "semester": "Spring 2025",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.4,
+  "examWeight": 0.6,
+  "assignmentsScore": 42,
+  "examScore": 38
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a07c"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb19"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Fall 2024",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 25,
+  "finalScore": 20
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a07d"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb19"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Fall 2024",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 28,
+  "finalScore": 22
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a07e"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb19"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Fall 2024",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "mixed",
+  "assignmentsWeight": 0.3,
+  "examWeight": 0.4,
+  "projectWeight": 0.3,
+  "assignmentsScore": 30,
+  "examScore": 25,
+  "projectScore": 28
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a07f"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb20"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaf"
+  },
+  "semester": "Fall 2024",
+  "letterGrade": "D",
+  "numericGrade": 2,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 52,
+  "finalScore": 48
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a080"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb20"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaab0"
+  },
+  "semester": "Fall 2024",
+  "letterGrade": "C",
+  "numericGrade": 2.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 60,
+  "finalScore": 58
+},
+{
+  "_id": {
+    "$oid": "6a205794e7ea578e5950a081"
+  },
+  "studentRef": {
+    "$oid": "bbbbbbbbbbbbbbbbbbbbbb20"
+  },
+  "courseRef": {
+    "$oid": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "semester": "Fall 2024",
+  "letterGrade": "F",
+  "numericGrade": 1.5,
+  "gradingType": "exam_only",
+  "midtermWeight": 0.4,
+  "finalWeight": 0.6,
+  "midtermScore": 44,
+  "finalScore": 40
+}]
